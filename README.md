@@ -1,2 +1,2 @@
 # Python
-Learning git
+Learning Python Basics
