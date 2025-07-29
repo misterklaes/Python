@@ -1,0 +1,5 @@
+user_number = int(input("Введіть число, яке складається із 4-ох цифр: "))
+print(user_number // 1000)
+print((user_number // 100) % 10)
+print((user_number // 10) % 10)
+print(user_number % 10)
